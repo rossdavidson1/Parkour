@@ -1,4 +1,4 @@
-This is my Repository for my game Gem Jum by Ross Davidson.
+This is my Repository for my game Gem Jump by Ross Davidson.
 
 All scripts are in Assets > Scripts.
 
